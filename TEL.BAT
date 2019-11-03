@@ -1,18 +1,18 @@
 cls
 @echo off
-echo "|======================|"
-echo "|Programado por SOFTNEO|"
-echo "|======================|"
-echo "============================================================================="
-echo "SSSSSSSSSS   OOOOOO   FFFFFFFFF TTTTTTTTT  NNNN      NN EEEEEEE    OOOOOO    "
-echo "SSSSSSSSSS  OOO  OOO  FFFFFFFFF TTTTTTTTT  NN NN     NN EEEEEEE   OOO  OOO   "
-echo "SSS        OOO    OOO FF           TTT     NN  NN    NN EE       OOO    OOO  "
-echo "SSS        OOO    OOO FF           TTT     NN   NN   NN EE      OOO      OOO "
-echo "SSSSSSSSSS OOO    OOO FFFFFFFFF    TTT     NN    NN  NN EEEEEEE OOO      OOO "
-echo "SSSSSSSSSS OOO    OOO FFFFFFFFF    TTT     NN     NN NN EEEEEEE  OOO    OOO  "
-echo "       SSS  OOO  OOO  FF           TTT     NN      NNNN EE        OOO  OOO   "
-echo "SSSSSSSSSS   OOOOOO   FF           TTT     NN       NNN EEEEEEE    OOOOOO    " 
-echo "============================================================================="
+echo "|=========================|"
+echo "|Programado por JoRgE-1987|"
+echo "|=========================|"
+echo "==========================================================="
+echo "JJJJJJJJJJ   OOOOOO   RRRRRRR   GGGGGGGGG  EEEEEEEEEEEE    "
+echo "JJJJJJJJJJ  OOO  OOO  RRRRRRRRR GGGGGGGGG  EEEEEEEEEEEE    "
+echo "    JJ     OOO    OOO RR    RR  GG         EE              "
+echo "    JJ     OOO    OOO RR   RR   GG  GGGGG  EEEEEEEEEEEE    "
+echo "    JJ     OOO    OOO RRRRRR    GG  GGGGG  EEEEEEEEEEEE    "
+echo "JJ  JJ     OOO    OOO RRRRR     GG     GG  EE              "
+echo "JJ  JJ      OOO  OOO  RR  RR    GGGGGGGGG  EEEEEEEEEEEE    "
+echo "JJJJJJ       OOOOOO   RR   RR   GGGGGGGGG  EEEEEEEEEEEE    " 
+echo "==========================================================="
 pause
 :ON
 cls
@@ -298,18 +298,18 @@ command.com
 :FI
 @echo off
 cls
-echo "============================================================================="
-echo "ssssssssss   oooooo   fffffffff ttttttttt  nnnn      nn eeeeeee    oooooo    "
-echo "ssssssssss  ooo  ooo  fffffffff ttttttttt  nn nn     nn eeeeeee   ooo  ooo   "
-echo "sss        ooo    ooo ff           ttt     nn  nn    nn ee       ooo    ooo  "
-echo "sss        ooo    ooo ff           ttt     nn   nn   nn ee      ooo      ooo "
-echo "ssssssssss ooo    ooo fffffffff    ttt     nn    nn  nn eeeeeee ooo      ooo "
-echo "ssssssssss ooo    ooo fffffffff    ttt     nn     nn nn eeeeeee  ooo    ooo  "
-echo "       sss  ooo  ooo  ff           ttt     nn      nnnn e         ooo  ooo   "
-echo "ssssssssss   oooooo   ff           ttt     nn       nnn eeeeeee    oooooo    "
-echo "============================================================================="
-echo "|==============================|"
-echo "|Gracias por elegirnos, SOFTNEO|"
-echo "|==============================|"
+echo "==========================================================="
+echo "JJJJJJJJJJ   OOOOOO   RRRRRRR   GGGGGGGGG  EEEEEEEEEEEE    "
+echo "JJJJJJJJJJ  OOO  OOO  RRRRRRRRR GGGGGGGGG  EEEEEEEEEEEE    "
+echo "    JJ     OOO    OOO RR    RR  GG         EE              "
+echo "    JJ     OOO    OOO RR   RR   GG  GGGGG  EEEEEEEEEEEE    "
+echo "    JJ     OOO    OOO RRRRRR    GG  GGGGG  EEEEEEEEEEEE    "
+echo "JJ  JJ     OOO    OOO RRRRR     GG     GG  EE              "
+echo "JJ  JJ      OOO  OOO  RR  RR    GGGGGGGGG  EEEEEEEEEEEE    "
+echo "JJJJJJ       OOOOOO   RR   RR   GGGGGGGGG  EEEEEEEEEEEE    " 
+echo "==========================================================="
+echo "|======================================================|"
+echo "|Gracias por elegirnos, JoRgE-1987                     |"
+echo "|======================================================|"
 pause
 end
